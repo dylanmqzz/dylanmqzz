@@ -5,16 +5,16 @@ Universidad Nacional del Sur · Bahía Blanca, Argentina · Promedio: 8.67/10
 
 ---
 
-Construyo cosas reales. Desde plataformas web completas hasta réplicas de videojuegos clásicos, me muevo con comodidad entre el frontend, el backend y los paradigmas que el problema pida — OOP, lógica, funcional.
+Me gusta construir cosas reales que ayuden en la solucion diferentes problemas y situaciones. He hecho plataformas web completas hasta réplicas de videojuegos clásicos, navegando entre las capas visual y logica con comodidad, adaptandome a los paradigmas que el problema requiera — OOP, lógico, funcional, entre otros.
 
-Actualmente en 3° año de la Licenciatura mientras sigo sumando proyectos concretos.
+Actualmente en 3° año de la Licenciatura mientras sigo sumando proyectos concretos y experiecnias.
 
 ---
 
 ## 🛠 Stack principal
 
 **Lenguajes**  
-JavaScript · TypeScript · Java · Python · Prolog · SQL
+JavaScript · TypeScript · Java · Python · Prolog · SQL · Pascal · C
 
 **Frameworks & Herramientas**  
 NestJS · Node.js · Next.js · React Native · Expo Go · Git
