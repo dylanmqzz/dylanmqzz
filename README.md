@@ -5,7 +5,7 @@ Universidad Nacional del Sur · Bahía Blanca, Argentina · Promedio: 8.67/10
 
 ---
 
-Me gusta construir cosas reales que ayuden en la solucion diferentes problemas y situaciones. He hecho plataformas web completas hasta réplicas de videojuegos clásicos, navegando entre las capas visual y logica con comodidad, adaptandome a los paradigmas que el problema requiera — OOP, lógico, funcional, entre otros.
+Me gusta construir cosas reales que ayuden en la solución de diferentes problemas y situaciones. He hecho plataformas web completas hasta réplicas de videojuegos clásicos, navegando entre las capas visual y logica con comodidad, adaptandome a los paradigmas que el problema requiera — OOP, lógico, funcional, entre otros.
 
 Actualmente en 3° año de la Licenciatura mientras sigo sumando proyectos concretos y experiecnias.
 
